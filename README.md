@@ -20,80 +20,24 @@ Firmrware de Traducción del panel de Chino a Ingles
  ![image](https://user-images.githubusercontent.com/76213844/112015931-de85e380-8af1-11eb-8f15-abf2fde824fc.png)
  
  al Descomprimir nos creara el siguiente estructura de directorios:
-\WDML
-|   file.txt
-|   
-├───GYJ
-|   └───Pack&Go.Smart 700 IE V3
-|       |   device.conf
-|       |   DownLoadTask.xml
-|       |   pdata.ETH0.cnk
-|       |   pdata.ORIE.cnk
-|       |   pdata.srt
-|       |   pdata.transfer
-|       |   ProjectCharacteristics.rdf
-|       |  # StartTransfer.bat
-|       |   
-|       ├───Extern
-|       |   └───VersionStore
-|       |           zip.exe
-|       |           
-|       └───Transfer
-|           |   mfc100.dll
-|           |   mfc100u.dll
-|           |   msvcp100.dll
-|           |   msvcr100.dll
-|           |   transfer.log
-|           |   TransferTool.exe
-|           |   TransferToolLib.dll
-|           |   
-|           └───3.0
-|                   DeviceMapping_TP176IEV3ColorI06_V1.xml
-|                   ErrorHandler.dll
-|                   expat.dll
-|                   ScsClient.dll
-|                   StreamingFileTransfer.dll
-|                   tpi2onl_dll.dll
-|                   tr_smart1.dll
-|                   tr_smart1_res409.dll
-|                   XMLParser.dll
-|                   
-└───PPJ
-    └───Pack&Go.Smart 700 IE V3
-        |   device.conf
-        |   DownLoadTask.xml
-        |   dump.txt
-        |   pdata.ETH0.cnk
-        |   pdata.ORIE.cnk
-        |   pdata.srt
-        |   pdata.transfer
-        |   ProjectCharacteristics.rdf
-        |   StartTransfer.bat
-        |   
-        ├───Extern
-        |   └───VersionStore
-        |           zip.exe
-        |           
-        └───Transfer
-            |   mfc100.dll
-            |   mfc100u.dll
-            |   msvcp100.dll
-            |   msvcr100.dll
-            |   transfer.log
-            |   TransferTool.exe
-            |   TransferToolLib.dll
-            |   
-            └───3.0
-                    DeviceMapping_TP176IEV3ColorI06_V1.xml
-                    ErrorHandler.dll
-                    expat.dll
-                    ScsClient.dll
-                    StreamingFileTransfer.dll
-                    tpi2onl_dll.dll
-                    tr_smart1.dll
-                    tr_smart1_res409.dll
-                    XMLParser.dll
+  de la 
+  ![image](https://user-images.githubusercontent.com/76213844/112022779-39223e00-8af8-11eb-96e2-87c8ba98adde.png)
+  ![image](https://user-images.githubusercontent.com/76213844/112022839-45a69680-8af8-11eb-85fa-e794400c60a0.png)
 
+  A. EJECUTAMOS: COMO ADMINISTRADOR DE LA CARPETA 
+  ## GYJ:
+  ### .\WDML\GYJ\Pack&Go.Smart 700 IE V3\StartTransfer.bat
+  
+  
+  ![image](https://user-images.githubusercontent.com/76213844/112022926-5a832a00-8af8-11eb-8907-2c2b1d99cf62.png)
 
+  
+  ## PPJ:
+  ### .\WDML\PPJ\Pack&Go.Smart 700 IE V3\StartTransfer.bat
+  
+  ![image](https://user-images.githubusercontent.com/76213844/112023076-83a3ba80-8af8-11eb-9688-5ef46f8df8ef.png)
 
-
+  
+  
+  
+ 
